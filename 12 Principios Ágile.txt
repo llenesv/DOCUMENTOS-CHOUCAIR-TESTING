@@ -1,0 +1,23 @@
+1. Satisfacción al cliente. La prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor.
+
+2. Cambios. Los cambios son bienvenidos en cualquier etapa del proyecto. Los procesos ágiles aprovechan el cambio para adaptarse a las necesidades del negocio y para proporcionar ventaja competitiva al cliente.
+
+3. Software funcional. Entrega de software funcional en un periodo corto (entre dos semanas y dos meses).
+
+4. Colaboración. Los responsables del negocio y los desarrolladores trabajan juntos durante todo el proyecto. La colaboración facilita la comunicación del equipo de trabajo con el cliente y esto también beneficia al usuario final del producto.
+
+5. Individuos motivados. El éxito de los proyectos está determinado, en gran medida, por individuos que se sienten motivados. Se debe garantizar un buen entorno de trabajo y dar al equipo independencia para tomar decisiones y ejecutar las actividades relacionadas con el proyecto.
+
+6. Comunicación cara a cara. Es el método más eficiente y efectivo de comunicar información al equipo.
+
+7. Progreso. El software funcionando es la principal medida de progreso.
+
+8. Desarrollo sostenible. El ritmo de desarrollo debe ser constante a lo largo de las iteraciones.
+
+9. Mejora continua. Está determinada por la excelencia técnica y el buen diseño a lo largo del proceso, en cada una de las iteraciones, el equipo puede identificar fácilmente qué hizo bien y qué puede mejorar.
+
+10. Simplicidad. El arte de maximizar la cantidad de trabajo no realizado es esencial. Se deben contemplar requerimientos bien definidos y un alcance claro para aprovechar al máximo los resultados de las tareas ejecutadas.
+
+11. Autoorganización. Las mejores arquitecturas, requisitos y diseños emergen de equipos autoorganizados.
+
+12. Autoevaluación. El equipo tiene la capacidad de ajustar y perfeccionar su comportamiento.
